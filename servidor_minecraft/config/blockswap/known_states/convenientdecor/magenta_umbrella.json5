@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"leaning": "true",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"leaning": "false",
+			"folded": "true"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"leaning": "true",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "4",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "5",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "6",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "7",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "8",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "9",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "10",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "11",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "12",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "13",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "14",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "15",
+			"leaning": "false",
+			"folded": "false"
+		},
+		"Name": "convenientdecor:magenta_umbrella"
+	}
+]

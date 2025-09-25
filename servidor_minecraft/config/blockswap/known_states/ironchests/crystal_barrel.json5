@@ -1,0 +1,724 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "locked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "locked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "locked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "locked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "north"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "locked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "locked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "locked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "locked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "east"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "locked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "locked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "locked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "locked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "south"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "locked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "locked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "locked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "locked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "west"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "locked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "locked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "locked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "locked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "up"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "locked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "locked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "locked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "locked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "no_lock",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "no_lock",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"lock": "unlocked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"lock": "unlocked",
+			"facing": "down"
+		},
+		"Name": "ironchests:crystal_barrel"
+	}
+]

@@ -1,0 +1,17 @@
+{
+	id: "0c47ee53-75ea-342c-8049-2d85cd2e7875"
+	type: "player"
+	player_name: "Adonis_MB"
+	ranks: {
+		0c47ee53-75ea-342c-8049-2d85cd2e7875: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Adonis_MB"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF95"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

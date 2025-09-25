@@ -1,0 +1,17 @@
+{
+	id: "a0b63e2b-1e28-3536-b536-028e1b0bd7f8"
+	type: "player"
+	player_name: "Crystallex"
+	ranks: {
+		a0b63e2b-1e28-3536-b536-028e1b0bd7f8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Crystallex"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
