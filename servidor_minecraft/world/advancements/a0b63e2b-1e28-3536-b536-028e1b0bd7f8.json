@@ -8811,5 +8811,11 @@
     },
     "done": true
   },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-09-27 02:41:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

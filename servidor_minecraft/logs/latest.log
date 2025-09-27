@@ -1878,3 +1878,15 @@ BCLib - The End  BiomeSource (dcd4e91)
 [02:36:13] [Server thread/INFO]: <Adonis_MB> lo plante
 [02:36:18] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [02:36:19] [Server thread/INFO]: <Crystallex> nmms es enorme
+[02:41:16] [Server thread/INFO]: Crystallex fell from a high place
+[02:41:16] [Server thread/INFO]: Created new backpack backup file for Crystallex with unique ID travelersbackpack.cow_27.09.2025-02.41.16.dat
+[02:41:49] [Server thread/INFO]: Crystallex has made the advancement [A crafter that runs on cells...]
+[02:46:06] [Server thread/INFO]: Crystallex lost connection: Disconnected
+[02:46:06] [Server thread/INFO]: Crystallex left the game
+[02:46:06] [Server thread/INFO]: remove player wand
+[02:46:06] [Server thread/INFO]: Updating all forceload tickets for a0b63e2b-1e28-3536-b536-028e1b0bd7f8
+[02:49:25] [Server thread/INFO]: Adonis_MB lost connection: Disconnected
+[02:49:25] [Server thread/INFO]: Adonis_MB left the game
+[02:49:25] [Server thread/INFO]: remove player wand
+[02:49:25] [Server thread/INFO]: Updating all forceload tickets for 0c47ee53-75ea-342c-8049-2d85cd2e7875
+[02:49:25] [Server thread/WARN]: handleDisconnection() called twice
