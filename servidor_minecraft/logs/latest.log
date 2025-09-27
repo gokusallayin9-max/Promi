@@ -1832,3 +1832,49 @@ BCLib - The End  BiomeSource (dcd4e91)
 [02:20:19] [Server thread/INFO]: [Adonis_MB: Set own game mode to Survival Mode]
 [02:25:07] [Server thread/INFO]: [Adonis_MB: Teleported Adonis_MB to -63.500000, 76.500000, 996.500000]
 [02:26:55] [Server thread/INFO]: [Adonis_MB: Teleported Adonis_MB to 196.500000, 108.500000, 1697.500000]
+[02:31:07] [Server thread/INFO]: [Handshake] Sending channel query
+[02:31:07] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[02:31:07] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[02:31:08] [Server thread/INFO]: Crystallex[/127.255.101.235:53673] logged in with entity id 8186 at (171.85762201117714, 79.0, 116.82298013946141)
+[02:31:08] [Server thread/INFO]: Sending server config values to client
+[02:31:08] [Server thread/INFO]: Syncing config to Crystallex (a0b63e2b-1e28-3536-b536-028e1b0bd7f8)
+[02:31:08] [Server thread/INFO]: Loading config from file...
+[02:31:08] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:31:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:31:08] [Server thread/INFO]: Crystallex joined the game
+[02:31:08] [Server thread/INFO]: Loading Configs for Sortilege
+[02:31:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:31:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:31:08] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:31:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:31:08] [Server thread/INFO]: Updating all forceload tickets for a0b63e2b-1e28-3536-b536-028e1b0bd7f8
+[02:31:08] [Server thread/INFO]: PLAYER_JOIN
+[02:31:08] [Server thread/INFO]: add_player wand
+[02:31:08] [Server thread/INFO]: config sent
+[02:31:09] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[02:31:17] [Netty Epoll Server IO #4/INFO]: Channel update: Crystallex -> default
+[02:31:17] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Crystallex. Claiming: GRAVE / Robbing: INVENTORY
+[02:32:05] [Server thread/INFO]: [Adonis_MB: Teleported Adonis_MB to 194.500000, 121.500000, 2504.500000]
+[02:32:13] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=446, y=-19, z=2667}
+[02:32:19] [Server thread/INFO]: [Adonis_MB: Teleported Adonis_MB to -382.500000, 76.500000, 2728.500000]
+[02:32:28] [Worker-Main-130/WARN]: Tried to access a block entity before it was created. class_2339{x=-528, y=-42, z=2682}
+[02:32:28] [Worker-Main-130/WARN]: Tried to access a block entity before it was created. class_2338{x=-528, y=-41, z=2682}
+[02:32:38] [Worker-Main-131/WARN]: Tried to access a block entity before it was created. class_2339{x=-432, y=-52, z=2929}
+[02:32:38] [Worker-Main-131/WARN]: Tried to access a block entity before it was created. class_2339{x=-432, y=-52, z=2930}
+[02:32:38] [Worker-Main-131/WARN]: Tried to access a block entity before it was created. class_2339{x=-432, y=-52, z=2931}
+[02:32:42] [Server thread/INFO]: <Crystallex> alv que hago en el never
+[02:32:45] [Server thread/INFO]: <Crystallex> nether
+[02:32:55] [Server thread/INFO]: <Adonis_MB> ahi lo dejamos
+[02:33:08] [Server thread/INFO]: <Crystallex> ni me acuerdo que haciamos
+[02:33:28] [Server thread/INFO]: <Adonis_MB> explorar
+[02:33:45] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-536, y=-51, z=2415}
+[02:34:18] [Server thread/INFO]: <Crystallex> me tepeas?
+[02:34:28] [Server thread/INFO]: [Adonis_MB: Teleported Crystallex to Adonis_MB]
+[02:35:21] [Server thread/INFO]: Adonis_MB was shot by Skeleton
+[02:35:21] [Server thread/INFO]: Created new backpack backup file for Adonis_MB with unique ID travelersbackpack.cake_27.09.2025-02.35.21.dat
+[02:35:30] [Server thread/INFO]: [Adonis_MB: Teleported Crystallex to Adonis_MB]
+[02:35:38] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
+[02:36:02] [Server thread/INFO]: <Crystallex> y este arbolote?
+[02:36:13] [Server thread/INFO]: <Adonis_MB> lo plante
+[02:36:18] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[02:36:19] [Server thread/INFO]: <Crystallex> nmms es enorme
