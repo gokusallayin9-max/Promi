@@ -11396,6 +11396,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-09-27 01:34:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-09-27 01:32:46 +0000"
@@ -11429,6 +11435,12 @@
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-09-27 01:32:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-09-27 01:34:51 +0000"
     },
     "done": true
   },
