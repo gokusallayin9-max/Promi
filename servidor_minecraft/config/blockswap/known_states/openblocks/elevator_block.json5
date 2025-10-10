@@ -1,0 +1,504 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "1"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "2"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "3"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "4"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "5"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "6"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "7"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "8"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "9"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "10"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "11"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "12"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "13"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "14"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "15"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "16"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "17"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "18"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "19"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "20"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "21"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "22"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "23"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "24"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "25"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "26"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "27"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "28"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "29"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "30"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "31"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "32"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "33"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "34"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "35"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "36"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "37"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "38"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "39"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "40"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "41"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "42"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "43"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "44"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "45"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "46"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "47"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "48"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "49"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "50"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "51"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "52"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "53"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "54"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "55"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "56"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "57"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "58"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "59"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "60"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "61"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "62"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "63"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "64"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "65"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "66"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "67"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "68"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "69"
+		},
+		"Name": "openblocks:elevator_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blocknum": "70"
+		},
+		"Name": "openblocks:elevator_block"
+	}
+]

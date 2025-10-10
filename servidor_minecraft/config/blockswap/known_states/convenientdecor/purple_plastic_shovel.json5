@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "straight",
+			"facing": "north"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "tilted",
+			"facing": "north"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "straight",
+			"facing": "south"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "tilted",
+			"facing": "south"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "lying",
+			"facing": "south"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "straight",
+			"facing": "west"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "tilted",
+			"facing": "west"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "lying",
+			"facing": "west"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "straight",
+			"facing": "east"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "tilted",
+			"facing": "east"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "lying",
+			"facing": "east"
+		},
+		"Name": "convenientdecor:purple_plastic_shovel"
+	}
+]
